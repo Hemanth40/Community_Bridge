@@ -83,5 +83,3 @@ Here's an overview of the project's directory structure:
 ## Contributing
 If you would like to contribute to the Community Bridge Portal, please fork the repository and submit a pull request. Make sure to include tests for any new features or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
