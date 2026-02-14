@@ -1,8 +1,3 @@
-
-Built by https://www.blackbox.ai
-
----
-
 # Community Bridge Portal
 
 ## Project Overview
